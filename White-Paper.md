@@ -83,4 +83,6 @@ To maintain deterministic execution and protect against front-running or sandwic
 
 6. Conclusion
 
-A 30% to 60% drawdown is mathematically punitive for passive holders, yet it represents the optimal operational window for supply-side protocol intervention. By anchoring treasury burns to discounted spot prices, the dApp transforms unrealized market losses into permanent supply scarcity—mathematically lowering the market capitalization required for holders to reach break-even and amplifying upward price elasticity when market demand returns
+A 30% to 60% drawdown is mathematically punitive for passive holders, yet it represents the optimal operational window for supply-side protocol intervention. By anchoring treasury burns to discounted spot prices, the dApp transforms unrealized market losses into permanent supply scarcity—mathematically lowering the market capitalization required for holders to reach break-even and amplifying upward price elasticity when market demand returns.
+
+Curated by: F1R3 Admin | Exalted_1
