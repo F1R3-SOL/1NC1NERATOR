@@ -74,7 +74,7 @@ Holder Drawdown (δ)	Current Price (\(P_{d}\))	Burn Efficiency (η)	Tokens Burne
 60% Loss	$80.00	2.50x	12,500 SOL	0.125%	-$2,500,000
 
 
-5. Governance & Risk Mitigation
+5. Governance & Risk Mitigation [TREASURY IMPLEMENTATION AND ACTIONS TBD] (TWAP vs. Humanistic)
 
 To maintain deterministic execution and protect against front-running or sandwich attacks during treasury buy-and-burn events:
 • TWAP Execution: Burn capital \(C_{b}\) is deployed via Time-Weighted Average Price (TWAP) smart contracts rather than single-block market orders.
